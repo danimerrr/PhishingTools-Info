@@ -1,4 +1,4 @@
-# PhisingTools-Info
+# PhishingTools-Info
 **Usefull tools and info about Phishing, Social Engineering and Osint**
 
 ## Documentation
